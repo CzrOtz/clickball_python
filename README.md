@@ -21,7 +21,7 @@ Clicking play will call a function that launches the game window. Endign the gam
 The end window has a button to redirect you to the main screen.
 
 welcome_screen => game2 => game_over => welcome_screen.
-               or => stats (non functional).
+               
                
      
 
