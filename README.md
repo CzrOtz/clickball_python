@@ -1,10 +1,10 @@
 # clickball_python 
 
-This is a game where you have 10 seconds to click a ball as many times as possible
-The ball moves randomly at every click
+This is a game where you have 10 seconds to click a ball as many times as possible.
+The ball moves randomly at every click.
 
 The game ends in one of two ways, either by the countdown reaching 0 or by clicking outside of the ball.
-The countdown starts by clicking the ball
+The countdown starts by clicking the ball.
 
 
 
